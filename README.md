@@ -2,8 +2,8 @@
 
 This project performs hyperparameter optimization of a Support Vector Machine (SVM) classifier on the **UCI Wine Quality (Red)** dataset. The goal is to evaluate the performance of an SVM classifier using multiple train-test samples and track the convergence of accuracy over 100 randomized optimization iterations.
 
-Author: **Vaibhavv Garg**
-Roll Number: **102203381**
+Author: **Nitin Goyal**
+Roll Number: **102203614**
 
 ---
 
