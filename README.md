@@ -48,5 +48,5 @@ We use the [Wine Quality - Red](https://archive.ics.uci.edu/ml/machine-learning-
 
 ---
 
-![Convergence Accuracy Graph](convergence_best_svm.png)
+![Convergence Accuracy Graph](convergence_graph.png)
 ![Results Table](svm_optimization_results.png)
