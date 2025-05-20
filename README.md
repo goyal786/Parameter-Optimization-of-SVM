@@ -8,10 +8,10 @@ Roll Number: **102203614**
 
 ## 📊 Dataset
 
-We use the [`load_digits`](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html) dataset from Scikit-learn (UCI-origin), which contains:
-- **1797 samples** of 8x8 pixel handwritten digits (0 to 9)
-- **64 features** (flattened pixel intensities)
-- **10 classes** (digits 0 to 9)
+We use the [`Wine_Quality`](https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv) dataset from Scikit-learn (UCI-origin), which contains:
+- **1599 samples** of 8x8 pixel handwritten digits (0 to 9)
+- **11 features** (flattened pixel intensities)
+- **6classes** (digits 0 to 9)
 
 ---
 
